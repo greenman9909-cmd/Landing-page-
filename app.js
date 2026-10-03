@@ -1,0 +1,1 @@
+document.querySelector('#reel')?.addEventListener('click',()=>document.querySelector('#experience')?.scrollIntoView({behavior:'smooth'}));
