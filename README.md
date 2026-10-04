@@ -1,8 +1,18 @@
-# AN0N landing page
+# AN0N · Landing Page
 
-Static responsive landing page for AN0N v2.0.0.
+Responsive static landing page for the AN0N project.
 
-## Deploy
-Static site; no build step is required. Vercel framework: Other.
+## Highlights
+- Lightweight static frontend
+- Responsive layout
+- No build step required
+- Easy deployment to static hosting platforms
 
-Recovered and prepared for deployment.
+## Run locally
+Open `index.html` directly or serve the directory with:
+
+```bash
+python -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
